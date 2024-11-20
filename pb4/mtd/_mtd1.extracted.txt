@@ -1,0 +1,229 @@
+
+Scan Time:     2024-11-17 21:52:38
+Target File:   /mnt/d/kamery/pb4/mtd1
+MD5 Checksum:  d97ba7a786000f347a6842888539900b
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             uImage header, header size: 64 bytes, header CRC: 0xFEB6482B, created: 2022-01-13 05:46:04, image size: 2313224 bytes, Data Address: 0xA0008000, Entry Point: 0xA0008000, data CRC: 0x33CFFFEC, OS: Linux, CPU: ARM, image type: OS Kernel Image, compression type: none, image name: "Linux-4.9.129"
+64            0x40            Linux kernel ARM boot executable zImage (little-endian)
+13934         0x366E          xz compressed data
+13940         0x3674          xz compressed data
+
+
+Scan Time:     2024-11-17 21:52:41
+Target File:   /mnt/d/kamery/pb4/_mtd1.extracted/3674
+MD5 Checksum:  32a33557caf531e8b24472afca142ec2
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+1090709       0x10A495        Certificate in DER format (x509 v3), header length: 4, sequence length: 4656
+1128380       0x1137BC        SHA256 hash constants, little endian
+2289665       0x22F001        Certificate in DER format (x509 v3), header length: 4, sequence length: 5420
+2848729       0x2B77D9        Certificate in DER format (x509 v3), header length: 4, sequence length: 1332
+3426548       0x3448F4        Unix path: /dev/vc/0
+3480672       0x351C60        DES SP1, little endian
+3480928       0x351D60        DES SP2, little endian
+3528992       0x35D920        CRC32 polynomial table, little endian
+3540460       0x3605EC        xz compressed data
+3543516       0x3611DC        Unix path: /lib/firmware/updates/4.9.129
+3664047       0x37E8AF        Neighborly text, "NeighborSolicitss"
+3664064       0x37E8C0        Neighborly text, "NeighborAdvertisementscmp6OutMsgs"
+3669925       0x37FFA5        Neighborly text, "neighbor table overflow!s %x"
+3699398       0x3872C6        Unix path: /var/run/rpcbind.sock
+4106452       0x3EA8D4        xz compressed data
+
+
+Scan Time:     2024-11-17 21:52:45
+Target File:   /mnt/d/kamery/pb4/_mtd1.extracted/_3674.extracted/3605EC
+MD5 Checksum:  846c6c817a998ca2664839f89333ee89
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:52:45
+Target File:   /mnt/d/kamery/pb4/_mtd1.extracted/_3674.extracted/3EA8D4
+MD5 Checksum:  ec78bab0d735c4bc2a25a9616bdf1a91
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             ASCII cpio archive (SVR4 with no CRC), file name: ".", file name length: "0x00000002", file size: "0x00000000"
+112           0x70            ASCII cpio archive (SVR4 with no CRC), file name: "usr", file name length: "0x00000004", file size: "0x00000000"
+228           0xE4            ASCII cpio archive (SVR4 with no CRC), file name: "usr/bin", file name length: "0x00000008", file size: "0x00000000"
+348           0x15C           ASCII cpio archive (SVR4 with no CRC), file name: "usr/app", file name length: "0x00000008", file size: "0x00000000"
+468           0x1D4           ASCII cpio archive (SVR4 with no CRC), file name: "usr/share", file name length: "0x0000000A", file size: "0x00000000"
+588           0x24C           ASCII cpio archive (SVR4 with no CRC), file name: "usr/share/udhcpc", file name length: "0x00000011", file size: "0x00000000"
+716           0x2CC           ASCII cpio archive (SVR4 with no CRC), file name: "usr/share/udhcpc/default.script", file name length: "0x00000020", file size: "0x00000493"
+2032          0x7F0           ASCII cpio archive (SVR4 with no CRC), file name: "etc", file name length: "0x00000004", file size: "0x00000000"
+2148          0x864           ASCII cpio archive (SVR4 with no CRC), file name: "etc/resolv.conf", file name length: "0x00000010", file size: "0x00000016"
+2300          0x8FC           ASCII cpio archive (SVR4 with no CRC), file name: "etc/fstab", file name length: "0x0000000A", file size: "0x000000B8"
+2604          0xA2C           ASCII cpio archive (SVR4 with no CRC), file name: "etc/inittab", file name length: "0x0000000C", file size: "0x00000C1B"
+5828          0x16C4          ASCII cpio archive (SVR4 with no CRC), file name: "etc/group", file name length: "0x0000000A", file size: "0x00000009"
+5960          0x1748          ASCII cpio archive (SVR4 with no CRC), file name: "etc/init.d", file name length: "0x0000000B", file size: "0x00000000"
+6084          0x17C4          ASCII cpio archive (SVR4 with no CRC), file name: "etc/init.d/S03network", file name length: "0x00000016", file size: "0x00000026"
+6256          0x1870          ASCII cpio archive (SVR4 with no CRC), file name: "etc/init.d/S01udev", file name length: "0x00000013", file size: "0x000005C6"
+7868          0x1EBC          ASCII cpio archive (SVR4 with no CRC), file name: "etc/init.d/rcS", file name length: "0x0000000F", file size: "0x000001DC"
+8472          0x2118          ASCII cpio archive (SVR4 with no CRC), file name: "etc/services", file name length: "0x0000000D", file size: "0x0000016A"
+8960          0x2300          ASCII cpio archive (SVR4 with no CRC), file name: "etc/hosts", file name length: "0x0000000A", file size: "0x00000000"
+9080          0x2378          ASCII cpio archive (SVR4 with no CRC), file name: "etc/inetd.conf", file name length: "0x0000000F", file size: "0x00000361"
+10076         0x275C          ASCII cpio archive (SVR4 with no CRC), file name: "etc/profile", file name length: "0x0000000C", file size: "0x00000232"
+10764         0x2A0C          ASCII cpio archive (SVR4 with no CRC), file name: "etc/udev", file name length: "0x00000009", file size: "0x00000000"
+10884         0x2A84          ASCII cpio archive (SVR4 with no CRC), file name: "etc/udev/rules.d", file name length: "0x00000011", file size: "0x00000000"
+11012         0x2B04          ASCII cpio archive (SVR4 with no CRC), file name: "etc/udev/rules.d/60-persistent-input.rules", file name length: "0x0000002B", file size: "0x00000590"
+12592         0x3130          ASCII cpio archive (SVR4 with no CRC), file name: "etc/udev/rules.d/01-udev.rules", file name length: "0x0000001F", file size: "0x0000172D"
+18672         0x48F0          ASCII cpio archive (SVR4 with no CRC), file name: "etc/udev/rules.d/05-udev-early.rules", file name length: "0x00000025", file size: "0x000000BF"
+19012         0x4A44          ASCII cpio archive (SVR4 with no CRC), file name: "etc/udev/rules.d/60-persistent-storage.rules", file name length: "0x0000002D", file size: "0x00000FE4"
+23236         0x5AC4          ASCII cpio archive (SVR4 with no CRC), file name: "etc/udev/rules.d/95-udev-late.rules", file name length: "0x00000024", file size: "0x00000088"
+23520         0x5BE0          ASCII cpio archive (SVR4 with no CRC), file name: "etc/udev/rules.d/60-i2c-tools.rules", file name length: "0x00000024", file size: "0x0000002F"
+23716         0x5CA4          ASCII cpio archive (SVR4 with no CRC), file name: "etc/udev/udev.conf", file name length: "0x00000013", file size: "0x000000E2"
+24076         0x5E0C          ASCII cpio archive (SVR4 with no CRC), file name: "etc/TZ", file name length: "0x00000007", file size: "0x00000006"
+24204         0x5E8C          ASCII cpio archive (SVR4 with no CRC), file name: "etc/passwd", file name length: "0x0000000B", file size: "0x00000026"
+24368         0x5F30          ASCII cpio archive (SVR4 with no CRC), file name: "sys", file name length: "0x00000004", file size: "0x00000000"
+24484         0x5FA4          ASCII cpio archive (SVR4 with no CRC), file name: "var", file name length: "0x00000004", file size: "0x00000000"
+24600         0x6018          ASCII cpio archive (SVR4 with no CRC), file name: "var/run", file name length: "0x00000008", file size: "0x00000000"
+24720         0x6090          ASCII cpio archive (SVR4 with no CRC), file name: "lib", file name length: "0x00000004", file size: "0x00000000"
+24836         0x6104          ASCII cpio archive (SVR4 with no CRC), file name: "lib/libm-0.9.33.2.so", file name length: "0x00000015", file size: "0x000103CC"
+91476         0x16554         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libstdc++.so.6", file name length: "0x00000013", file size: "0x00000013"
+91628         0x165EC         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libpthread-0.9.33.2.so", file name length: "0x0000001B", file size: "0x000137B4"
+171564        0x29E2C         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libthread_db-0.9.33.2.so", file name length: "0x0000001D", file size: "0x000044AC"
+189284        0x2E364         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libgcc_s.so.1", file name length: "0x00000012", file size: "0x0001F6D8"
+318140        0x4DABC         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libdl-0.9.33.2.so", file name length: "0x00000016", file size: "0x000034A8"
+331752        0x50FE8         ASCII cpio archive (SVR4 with no CRC), file name: "lib/librt.so.0", file name length: "0x0000000F", file size: "0x00000011"
+331900        0x5107C         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libatomic.so", file name length: "0x00000011", file size: "0x00000012"
+332048        0x51110         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libstdc++.so", file name length: "0x00000011", file size: "0x00000013"
+332196        0x511A4         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libutil.so.0", file name length: "0x00000011", file size: "0x00000013"
+332344        0x51238         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libcrypt.so.0", file name length: "0x00000012", file size: "0x00000014"
+332492        0x512CC         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libresolv.so.0", file name length: "0x00000013", file size: "0x00000015"
+332648        0x51368         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libitm.so.1.0.0", file name length: "0x00000014", file size: "0x0000D790"
+387964        0x5EB7C         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libitm.so", file name length: "0x0000000E", file size: "0x0000000F"
+388104        0x5EC08         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libnsl.so.0", file name length: "0x00000010", file size: "0x00000012"
+388252        0x5EC9C         ASCII cpio archive (SVR4 with no CRC), file name: "lib/libstdc++.so.6.0.22", file name length: "0x00000018", file size: "0x000F86E0"
+1405956       0x157404        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libc.so.0", file name length: "0x0000000E", file size: "0x00000015"
+1406104       0x157498        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libatomic.so.1.2.0", file name length: "0x00000017", file size: "0x00005544"
+1428068       0x15CA64        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libitm.so.1", file name length: "0x00000010", file size: "0x0000000F"
+1428212       0x15CAF4        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libm.so.0", file name length: "0x0000000E", file size: "0x00000010"
+1428352       0x15CB80        ASCII cpio archive (SVR4 with no CRC), file name: "lib/ld-uClibc.so.0", file name length: "0x00000013", file size: "0x00000015"
+1428508       0x15CC1C        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libpthread.so.0", file name length: "0x00000014", file size: "0x00000016"
+1428664       0x15CCB8        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libnsl-0.9.33.2.so", file name length: "0x00000017", file size: "0x0000137C"
+1433788       0x15E0BC        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libdl.so.0", file name length: "0x0000000F", file size: "0x00000011"
+1433936       0x15E150        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libuClibc-0.9.33.2.so", file name length: "0x0000001A", file size: "0x00059F1C"
+1802484       0x1B80F4        ASCII cpio archive (SVR4 with no CRC), file name: "lib/librt-0.9.33.2.so", file name length: "0x00000016", file size: "0x00003488"
+1816064       0x1BB600        ASCII cpio archive (SVR4 with no CRC), file name: "lib/ld-uClibc-0.9.33.2.so", file name length: "0x0000001A", file size: "0x00006330"
+1841592       0x1C19B8        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libatomic.so.1", file name length: "0x00000013", file size: "0x00000012"
+1841744       0x1C1A50        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libthread_db.so.1", file name length: "0x00000016", file size: "0x00000018"
+1841900       0x1C1AEC        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libresolv-0.9.33.2.so", file name length: "0x0000001A", file size: "0x00001380"
+1847028       0x1C2EF4        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libcrypt-0.9.33.2.so", file name length: "0x00000019", file size: "0x0000439C"
+1864472       0x1C7318        ASCII cpio archive (SVR4 with no CRC), file name: "lib/libutil-0.9.33.2.so", file name length: "0x00000018", file size: "0x0000139C"
+1869628       0x1C873C        ASCII cpio archive (SVR4 with no CRC), file name: "bin", file name length: "0x00000004", file size: "0x00000000"
+1869744       0x1C87B0        ASCII cpio archive (SVR4 with no CRC), file name: "bin/env", file name length: "0x00000008", file size: "0x00000007"
+1869872       0x1C8830        ASCII cpio archive (SVR4 with no CRC), file name: "bin/netstat", file name length: "0x0000000C", file size: "0x00000007"
+1870004       0x1C88B4        ASCII cpio archive (SVR4 with no CRC), file name: "bin/dumpleases", file name length: "0x0000000F", file size: "0x00000007"
+1870140       0x1C893C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/mount", file name length: "0x0000000A", file size: "0x00000007"
+1870268       0x1C89BC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/ping", file name length: "0x00000009", file size: "0x00000007"
+1870396       0x1C8A3C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/sleep", file name length: "0x0000000A", file size: "0x00000007"
+1870524       0x1C8ABC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/grep", file name length: "0x00000009", file size: "0x00000007"
+1870652       0x1C8B3C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/tar", file name length: "0x00000008", file size: "0x00000007"
+1870780       0x1C8BBC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/chmod", file name length: "0x0000000A", file size: "0x00000007"
+1870908       0x1C8C3C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/test", file name length: "0x00000009", file size: "0x00000007"
+1871036       0x1C8CBC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/false", file name length: "0x0000000A", file size: "0x00000007"
+1871164       0x1C8D3C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/cp", file name length: "0x00000007", file size: "0x00000007"
+1871292       0x1C8DBC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/top", file name length: "0x00000008", file size: "0x00000007"
+1871420       0x1C8E3C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/usleep", file name length: "0x0000000B", file size: "0x00000007"
+1871552       0x1C8EC0        ASCII cpio archive (SVR4 with no CRC), file name: "bin/fsync", file name length: "0x0000000A", file size: "0x00000007"
+1871680       0x1C8F40        ASCII cpio archive (SVR4 with no CRC), file name: "bin/mknod", file name length: "0x0000000A", file size: "0x00000007"
+1871808       0x1C8FC0        ASCII cpio archive (SVR4 with no CRC), file name: "bin/hostname", file name length: "0x0000000D", file size: "0x00000007"
+1871940       0x1C9044        ASCII cpio archive (SVR4 with no CRC), file name: "bin/mpstat", file name length: "0x0000000B", file size: "0x00000007"
+1872072       0x1C90C8        ASCII cpio archive (SVR4 with no CRC), file name: "bin/ln", file name length: "0x00000007", file size: "0x00000007"
+1872200       0x1C9148        ASCII cpio archive (SVR4 with no CRC), file name: "bin/ps", file name length: "0x00000007", file size: "0x00000007"
+1872328       0x1C91C8        ASCII cpio archive (SVR4 with no CRC), file name: "bin/iostat", file name length: "0x0000000B", file size: "0x00000007"
+1872460       0x1C924C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/true", file name length: "0x00000009", file size: "0x00000007"
+1872588       0x1C92CC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/unlzma", file name length: "0x0000000B", file size: "0x00000007"
+1872720       0x1C9350        ASCII cpio archive (SVR4 with no CRC), file name: "bin/echo", file name length: "0x00000009", file size: "0x00000007"
+1872848       0x1C93D0        ASCII cpio archive (SVR4 with no CRC), file name: "bin/[[", file name length: "0x00000007", file size: "0x00000007"
+1872976       0x1C9450        ASCII cpio archive (SVR4 with no CRC), file name: "bin/free", file name length: "0x00000009", file size: "0x00000007"
+1873104       0x1C94D0        ASCII cpio archive (SVR4 with no CRC), file name: "bin/dmesg", file name length: "0x0000000A", file size: "0x00000007"
+1873232       0x1C9550        ASCII cpio archive (SVR4 with no CRC), file name: "bin/killall", file name length: "0x0000000C", file size: "0x00000007"
+1873364       0x1C95D4        ASCII cpio archive (SVR4 with no CRC), file name: "bin/gunzip", file name length: "0x0000000B", file size: "0x00000007"
+1873496       0x1C9658        ASCII cpio archive (SVR4 with no CRC), file name: "bin/lzcat", file name length: "0x0000000A", file size: "0x00000007"
+1873624       0x1C96D8        ASCII cpio archive (SVR4 with no CRC), file name: "bin/df", file name length: "0x00000007", file size: "0x00000007"
+1873752       0x1C9758        ASCII cpio archive (SVR4 with no CRC), file name: "bin/sh", file name length: "0x00000007", file size: "0x00000007"
+1873880       0x1C97D8        ASCII cpio archive (SVR4 with no CRC), file name: "bin/mkdir", file name length: "0x0000000A", file size: "0x00000007"
+1874008       0x1C9858        ASCII cpio archive (SVR4 with no CRC), file name: "bin/gzip", file name length: "0x00000009", file size: "0x00000007"
+1874136       0x1C98D8        ASCII cpio archive (SVR4 with no CRC), file name: "bin/touch", file name length: "0x0000000A", file size: "0x00000007"
+1874264       0x1C9958        ASCII cpio archive (SVR4 with no CRC), file name: "bin/ftpget", file name length: "0x0000000B", file size: "0x00000007"
+1874396       0x1C99DC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/kill", file name length: "0x00000009", file size: "0x00000007"
+1874524       0x1C9A5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/du", file name length: "0x00000007", file size: "0x00000007"
+1874652       0x1C9ADC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/zcat", file name length: "0x00000009", file size: "0x00000007"
+1874780       0x1C9B5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/fgrep", file name length: "0x0000000A", file size: "0x00000007"
+1874908       0x1C9BDC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/date", file name length: "0x00000009", file size: "0x00000007"
+1875036       0x1C9C5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/ping6", file name length: "0x0000000A", file size: "0x00000007"
+1875164       0x1C9CDC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/ash", file name length: "0x00000008", file size: "0x00000007"
+1875292       0x1C9D5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/tftp", file name length: "0x00000009", file size: "0x00000007"
+1875420       0x1C9DDC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/ftpput", file name length: "0x0000000B", file size: "0x00000007"
+1875552       0x1C9E60        ASCII cpio archive (SVR4 with no CRC), file name: "bin/ls", file name length: "0x00000007", file size: "0x00000007"
+1875680       0x1C9EE0        ASCII cpio archive (SVR4 with no CRC), file name: "bin/[", file name length: "0x00000006", file size: "0x00000007"
+1875804       0x1C9F5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/wc", file name length: "0x00000007", file size: "0x00000007"
+1875932       0x1C9FDC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/awk", file name length: "0x00000008", file size: "0x00000007"
+1876060       0x1CA05C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/lsusb", file name length: "0x0000000A", file size: "0x00000007"
+1876188       0x1CA0DC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/lzma", file name length: "0x00000009", file size: "0x00000007"
+1876316       0x1CA15C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/busybox", file name length: "0x0000000C", file size: "0x0005B904"
+2251484       0x225ADC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/pwd", file name length: "0x00000008", file size: "0x00000007"
+2251612       0x225B5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/login", file name length: "0x0000000A", file size: "0x00000007"
+2251740       0x225BDC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/egrep", file name length: "0x0000000A", file size: "0x00000007"
+2251868       0x225C5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/cat", file name length: "0x00000008", file size: "0x00000007"
+2251996       0x225CDC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/sync", file name length: "0x00000009", file size: "0x00000007"
+2252124       0x225D5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/dd", file name length: "0x00000007", file size: "0x00000007"
+2252252       0x225DDC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/mv", file name length: "0x00000007", file size: "0x00000007"
+2252380       0x225E5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/bash", file name length: "0x00000009", file size: "0x00000007"
+2252508       0x225EDC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/rm", file name length: "0x00000007", file size: "0x00000007"
+2252636       0x225F5C        ASCII cpio archive (SVR4 with no CRC), file name: "bin/sed", file name length: "0x00000008", file size: "0x00000007"
+2252764       0x225FDC        ASCII cpio archive (SVR4 with no CRC), file name: "bin/umount", file name length: "0x0000000B", file size: "0x00000007"
+2252896       0x226060        ASCII cpio archive (SVR4 with no CRC), file name: "bin/tail", file name length: "0x00000009", file size: "0x00000007"
+2253024       0x2260E0        ASCII cpio archive (SVR4 with no CRC), file name: "home", file name length: "0x00000005", file size: "0x00000000"
+2253140       0x226154        ASCII cpio archive (SVR4 with no CRC), file name: "dev", file name length: "0x00000004", file size: "0x00000000"
+2253256       0x2261C8        ASCII cpio archive (SVR4 with no CRC), file name: "dev/console", file name length: "0x0000000C", file size: "0x00000000"
+2253380       0x226244        ASCII cpio archive (SVR4 with no CRC), file name: "dev/null", file name length: "0x00000009", file size: "0x00000000"
+2253500       0x2262BC        ASCII cpio archive (SVR4 with no CRC), file name: "lost+found", file name length: "0x0000000B", file size: "0x00000000"
+2253624       0x226338        ASCII cpio archive (SVR4 with no CRC), file name: "opt", file name length: "0x00000004", file size: "0x00000000"
+2253740       0x2263AC        ASCII cpio archive (SVR4 with no CRC), file name: "mnt", file name length: "0x00000004", file size: "0x00000000"
+2253856       0x226420        ASCII cpio archive (SVR4 with no CRC), file name: "init", file name length: "0x00000005", file size: "0x00000009"
+2253984       0x2264A0        ASCII cpio archive (SVR4 with no CRC), file name: "nfsroot", file name length: "0x00000008", file size: "0x00000000"
+2254104       0x226518        ASCII cpio archive (SVR4 with no CRC), file name: "root", file name length: "0x00000005", file size: "0x00000000"
+2254220       0x22658C        ASCII cpio archive (SVR4 with no CRC), file name: "sbin", file name length: "0x00000005", file size: "0x00000000"
+2254336       0x226600        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/mkdosfs", file name length: "0x0000000D", file size: "0x0000000E"
+2254476       0x22668C        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/fdisk", file name length: "0x0000000B", file size: "0x0000000E"
+2254616       0x226718        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/mdev", file name length: "0x0000000A", file size: "0x0000000E"
+2254752       0x2267A0        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/dhcprelay", file name length: "0x0000000F", file size: "0x0000000E"
+2254896       0x226830        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/halt", file name length: "0x0000000A", file size: "0x0000000E"
+2255032       0x2268B8        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/udevinfo", file name length: "0x0000000E", file size: "0x0000C65C"
+2305936       0x232F90        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/lsmod", file name length: "0x0000000B", file size: "0x0000000E"
+2306076       0x23301C        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/modprobe", file name length: "0x0000000E", file size: "0x0000000E"
+2306216       0x2330A8        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/udhcpc", file name length: "0x0000000C", file size: "0x0000000E"
+2306356       0x233134        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/rmmod", file name length: "0x0000000B", file size: "0x0000000E"
+2306496       0x2331C0        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/udevsettle", file name length: "0x00000010", file size: "0x000045EC"
+2324524       0x23782C        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/udevd", file name length: "0x0000000B", file size: "0x0000E6D8"
+2383744       0x245F80        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/ifconfig", file name length: "0x0000000E", file size: "0x0000000E"
+2383884       0x24600C        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/udevmonitor", file name length: "0x00000011", file size: "0x00002584"
+2393616       0x248610        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/poweroff", file name length: "0x0000000E", file size: "0x0000000E"
+2393756       0x24869C        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/udhcpd", file name length: "0x0000000C", file size: "0x0000000E"
+2393896       0x248728        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/telnetd", file name length: "0x0000000D", file size: "0x0000000E"
+2394036       0x2487B4        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/init", file name length: "0x0000000A", file size: "0x0000000E"
+2394172       0x24883C        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/udevstart", file name length: "0x0000000F", file size: "0x0000C65C"
+2445080       0x254F18        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/insmod", file name length: "0x0000000C", file size: "0x0000000E"
+2445220       0x254FA4        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/mkfs.vfat", file name length: "0x0000000F", file size: "0x0000000E"
+2445364       0x255034        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/reboot", file name length: "0x0000000C", file size: "0x0000000E"
+2445504       0x2550C0        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/udevcontrol", file name length: "0x00000011", file size: "0x000035AC"
+2459372       0x2586EC        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/inetd", file name length: "0x0000000B", file size: "0x0000000E"
+2459512       0x258778        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/udevtrigger", file name length: "0x00000011", file size: "0x0000560C"
+2481668       0x25DE04        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/hwclock", file name length: "0x0000000D", file size: "0x0000000E"
+2481808       0x25DE90        ASCII cpio archive (SVR4 with no CRC), file name: "sbin/route", file name length: "0x0000000B", file size: "0x0000000E"
+2481948       0x25DF1C        ASCII cpio archive (SVR4 with no CRC), file name: "tmp", file name length: "0x00000004", file size: "0x00000000"
+2482064       0x25DF90        ASCII cpio archive (SVR4 with no CRC), file name: "proc", file name length: "0x00000005", file size: "0x00000000"
+2482180       0x25E004        ASCII cpio archive (SVR4 with no CRC), file name: "share", file name length: "0x00000006", file size: "0x00000000"
+2482296       0x25E078        ASCII cpio archive (SVR4 with no CRC), file name: "TRAILER!!!", file name length: "0x0000000B", file size: "0x00000000"
+

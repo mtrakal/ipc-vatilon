@@ -1,0 +1,18 @@
+mtrakal@mtrakal-x1cg8:/mnt/d/kamery/pb1/mtd_complete$ sudo binwalk -Me --run-as=root mtd2
+
+Scan Time:     2024-11-17 21:42:36
+Target File:   /mnt/d/kamery/pb1/mtd_complete/mtd2
+MD5 Checksum:  1683825b9314755d6416e0535ad6eb7f
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+WARNING: Symlink points outside of the extraction directory: /mnt/d/kamery/pb1/mtd_complete/_mtd2.extracted/squashfs-root/www/config.conf -> /tmp/config.conf; changing link target to /dev/null for security purposes.
+
+WARNING: Symlink points outside of the extraction directory: /mnt/d/kamery/pb1/mtd_complete/_mtd2.extracted/squashfs-root/www/js2 -> /tmp/www/js; changing link target to /dev/null for security purposes.
+
+WARNING: Symlink points outside of the extraction directory: /mnt/d/kamery/pb1/mtd_complete/_mtd2.extracted/squashfs-root/www/img2/login_bg.png -> /tmp/www/login_bg.png; changing link target to /dev/null for security purposes.
+
+WARNING: Symlink points outside of the extraction directory: /mnt/d/kamery/pb1/mtd_complete/_mtd2.extracted/squashfs-root/www/img2/logo.png -> /tmp/www/logo.png; changing link target to /dev/null for security purposes.
+0             0x0             Squashfs filesystem, little endian, version 4.0, compression:xz, size: 3463626 bytes, 225 inodes, blocksize: 65536 bytes, created: 2022-08-01 10:07:44

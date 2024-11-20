@@ -1,0 +1,107 @@
+mtrakal@mtrakal-x1cg8:/mnt/d/kamery/pb1/mtd_complete$ sudo binwalk -Me --run-as=root mtd3
+
+Scan Time:     2024-11-17 21:43:02
+Target File:   /mnt/d/kamery/pb1/mtd_complete/mtd3
+MD5 Checksum:  98935514358b4af58fdac1f0478987b0
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+0             0x0             JFFS2 filesystem, little endian
+475216        0x74050         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+475768        0x74278         JFFS2 filesystem, little endian
+839760        0xCD050         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+840168        0xCD1E8         JFFS2 filesystem, little endian
+843404        0xCDE8C         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+843856        0xCE050         JFFS2 filesystem, little endian
+844200        0xCE1A8         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+844444        0xCE29C         JFFS2 filesystem, little endian
+844564        0xCE314         Zlib compressed data, compressed
+845676        0xCE76C         Zlib compressed data, compressed
+846516        0xCEAB4         Zlib compressed data, compressed
+847404        0xCEE2C         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+847872        0xCF000         JFFS2 filesystem, little endian
+
+
+Scan Time:     2024-11-17 21:43:04
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd3.extracted/74050
+MD5 Checksum:  b0a879794e36062b4f180d8f7f9d2f92
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:43:04
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd3.extracted/CD050
+MD5 Checksum:  dfc0a1db73a150c9b631ebbdba9b48ec
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:43:04
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd3.extracted/CDE8C
+MD5 Checksum:  abee5c7fe963c19130dc51f87f0fd3ad
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:43:04
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd3.extracted/CE1A8
+MD5 Checksum:  cd12e9381a558feb75b1c0faf0d413ed
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:43:04
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd3.extracted/CE314
+MD5 Checksum:  acebd23223c59316a5c91d9081b2488e
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:43:04
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd3.extracted/CE76C
+MD5 Checksum:  43933c35fb8308542b79937e351f0232
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:43:04
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd3.extracted/CEAB4
+MD5 Checksum:  5574c7e51fb5efb1e520d144eca85752
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:43:04
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd3.extracted/CEE2C
+MD5 Checksum:  da8886ea945450a04358b72fafbb1e6c
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------

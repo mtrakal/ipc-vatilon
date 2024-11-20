@@ -1,0 +1,243 @@
+mtrakal@mtrakal-x1cg8:/mnt/d/kamery/pb1/mtd_complete$ sudo binwalk -Me --run-as=root mtd4
+
+Scan Time:     2024-11-17 21:44:10
+Target File:   /mnt/d/kamery/pb1/mtd_complete/mtd4
+MD5 Checksum:  3cfaeacded9d2b469e26f35b37b3c5a3
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+0             0x0             JFFS2 filesystem, little endian
+249936        0x3D050         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+250328        0x3D1D8         JFFS2 filesystem, little endian
+250448        0x3D250         Zlib compressed data, compressed
+250696        0x3D348         Zlib compressed data, compressed
+251092        0x3D4D4         Zlib compressed data, compressed
+251488        0x3D660         Zlib compressed data, compressed
+251884        0x3D7EC         Zlib compressed data, compressed
+252280        0x3D978         Zlib compressed data, compressed
+252676        0x3DB04         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+254032        0x3E050         JFFS2 filesystem, little endian
+254944        0x3E3E0         Zlib compressed data, compressed
+256056        0x3E838         Zlib compressed data, compressed
+256880        0x3EB70         Zlib compressed data, compressed
+257780        0x3EEF4         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+258060        0x3F00C         JFFS2 filesystem, little endian
+259564        0x3F5EC         Zlib compressed data, compressed
+259960        0x3F778         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+260288        0x3F8C0         JFFS2 filesystem, little endian
+263424        0x40500         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+264188        0x407FC         JFFS2 filesystem, little endian
+265168        0x40BD0         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+266020        0x40F24         JFFS2 filesystem, little endian
+320320        0x4E340         Zlib compressed data, compressed
+320744        0x4E4E8         Zlib compressed data, compressed
+320980        0x4E5D4         Zlib compressed data, compressed
+322096        0x4EA30         Zlib compressed data, compressed
+323348        0x4EF14         Zlib compressed data, compressed
+
+WARNING: Extractor.execute failed to run external extractor 'jefferson -d 'jffs2-root' '%e'': [Errno 2] No such file or directory: 'jefferson', 'jefferson -d 'jffs2-root' '%e'' might not be installed correctly
+323584        0x4F000         JFFS2 filesystem, little endian
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3D050
+MD5 Checksum:  5f43ccba7d32b92c34a0c4bb0edce942
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3D250
+MD5 Checksum:  71f09707c4e7e536116ea7d962e5653a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3D348
+MD5 Checksum:  71f09707c4e7e536116ea7d962e5653a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3D4D4
+MD5 Checksum:  71f09707c4e7e536116ea7d962e5653a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3D660
+MD5 Checksum:  71f09707c4e7e536116ea7d962e5653a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3D7EC
+MD5 Checksum:  71f09707c4e7e536116ea7d962e5653a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3D978
+MD5 Checksum:  71f09707c4e7e536116ea7d962e5653a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3DB04
+MD5 Checksum:  2096dfce619c6f040526c81645116791
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3E3E0
+MD5 Checksum:  acebd23223c59316a5c91d9081b2488e
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3E838
+MD5 Checksum:  43933c35fb8308542b79937e351f0232
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3EB70
+MD5 Checksum:  5574c7e51fb5efb1e520d144eca85752
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3EEF4
+MD5 Checksum:  c23db735427c79c19c46a6b12556813a
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3F5EC
+MD5 Checksum:  c0166935e54e8dd29f0ed6ed7ab3ec29
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/3F778
+MD5 Checksum:  c0166935e54e8dd29f0ed6ed7ab3ec29
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/40500
+MD5 Checksum:  6aa4786c25d3c3da57f88651ceea05a0
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/40BD0
+MD5 Checksum:  fd2ed2e30f5dabc80ccb13b52741d575
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/4E340
+MD5 Checksum:  8ec1416ada14f0b2a1031ad21e9a78b4
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/4E4E8
+MD5 Checksum:  b7242a9ad25580493ca30792d1a9eb7c
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/4E5D4
+MD5 Checksum:  85456eeff9b7ed1be358c2e48945353e
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/4EA30
+MD5 Checksum:  7397b69d3e52bfa70f25a1ea63726c60
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:44:13
+Target File:   /mnt/d/kamery/pb1/mtd_complete/_mtd4.extracted/4EF14
+MD5 Checksum:  fad257a2447e111aafd544ab4c9477ad
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+mtrakal@mtrakal-x1cg8:/mnt/d/kamery/pb1/mtd_complete$ sudo binwalk -Me --run-as=root mtd5
+
+Scan Time:     2024-11-17 21:44:41
+Target File:   /mnt/d/kamery/pb1/mtd_complete/mtd5
+MD5 Checksum:  648248e9ba06d1ec78c786da9e63a5b2
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------

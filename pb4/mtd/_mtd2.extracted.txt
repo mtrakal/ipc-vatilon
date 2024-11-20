@@ -1,0 +1,10 @@
+
+Scan Time:     2024-11-17 21:53:15
+Target File:   /mnt/d/kamery/pb4/mtd2
+MD5 Checksum:  a6c523c542b985faab7dce7f56e2278c
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             Squashfs filesystem, little endian, version 4.0, compression:xz, size: 3499602 bytes, 234 inodes, blocksize: 65536 bytes, created: 2024-05-24 05:55:27
+

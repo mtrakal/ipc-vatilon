@@ -1,0 +1,121 @@
+
+Scan Time:     2024-11-17 21:53:32
+Target File:   /mnt/d/kamery/pb4/mtd3
+MD5 Checksum:  a656bf1984862def2b512fff2bc25917
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+0             0x0             JFFS2 filesystem, little endian
+459824        0x70430         Zlib compressed data, compressed
+460936        0x70888         Zlib compressed data, compressed
+462132        0x70D34         Zlib compressed data, compressed
+463212        0x7116C         Zlib compressed data, compressed
+464240        0x71570         Zlib compressed data, compressed
+465108        0x718D4         Zlib compressed data, compressed
+466220        0x71D2C         Zlib compressed data, compressed
+467416        0x721D8         Zlib compressed data, compressed
+468496        0x72610         Zlib compressed data, compressed
+469524        0x72A14         Zlib compressed data, compressed
+470388        0x72D74         Zlib compressed data, compressed
+471432        0x73188         JFFS2 filesystem, little endian
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/70430
+MD5 Checksum:  758618c34a03767b118b1a5f1f76e3b9
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/70888
+MD5 Checksum:  648870e5a2358027eb678a0ef66c0661
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/70D34
+MD5 Checksum:  d5e1aca710d89dc592562706dabd4d2d
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/7116C
+MD5 Checksum:  71819f00ee7491511d29448dc753a691
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/71570
+MD5 Checksum:  41623f44af1697c8fb271785264e2475
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/718D4
+MD5 Checksum:  758618c34a03767b118b1a5f1f76e3b9
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/71D2C
+MD5 Checksum:  648870e5a2358027eb678a0ef66c0661
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/721D8
+MD5 Checksum:  d5e1aca710d89dc592562706dabd4d2d
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/72610
+MD5 Checksum:  71819f00ee7491511d29448dc753a691
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/72A14
+MD5 Checksum:  4da95a4ad8b3b727171a9fdef88ec088
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+
+
+Scan Time:     2024-11-17 21:53:33
+Target File:   /mnt/d/kamery/pb4/_mtd3.extracted/72D74
+MD5 Checksum:  758618c34a03767b118b1a5f1f76e3b9
+Signatures:    411
+
+DECIMAL       HEXADECIMAL     DESCRIPTION
+--------------------------------------------------------------------------------
+

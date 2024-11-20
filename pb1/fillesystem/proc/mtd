@@ -1,0 +1,7 @@
+dev:    size   erasesize  name
+mtd0: 00050000 00001000 "uboot"
+mtd1: 00280000 00001000 "kernel"
+mtd2: 00400000 00001000 "appfs"
+mtd3: 000d0000 00001000 "custom"
+mtd4: 00050000 00001000 "config"
+mtd5: 00010000 00001000 "data"
